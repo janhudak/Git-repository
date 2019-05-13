@@ -1,5 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Change 1
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+Change 1<br>
+Change 2 - now in readme branch.<br>
 ## Available Scripts
 
 In the project directory, you can run:
