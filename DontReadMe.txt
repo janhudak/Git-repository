@@ -1,0 +1,1 @@
+Ahojte. Iba nieco skusam. Miska
